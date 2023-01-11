@@ -182,7 +182,7 @@ After you install Active Directory, the Vm will resart
 <p>
 RDP into the VM
 <p>
-Now that the VM is a Domain Controller. your login should be like this. (DomainName)\(LocalUser) then the password you use to create the VM
+Now that the VM is a Domain Controller. Your login should be like this. (DomainName)\(LocalUser) then the password you use to create the VM
 </p>
 <br />
 
